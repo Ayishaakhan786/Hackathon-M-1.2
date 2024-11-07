@@ -1,0 +1,48 @@
+.box{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    width: 60%;
+    justify-items: center;
+    border: 2px black solid;
+    margin: 0px 300px;
+  
+}
+.box-1{
+    width: 30%;
+    background-color: rgb(76, 160, 212);
+    height: 100%;
+    display: block;
+    justify-content: center;
+
+}
+.box-2{
+    width: 70%;
+    background-color:white;
+    height: 100%;
+    display: block;
+    justify-content: center;
+}
+.line{
+    position: relative;
+    margin-top: 150px;
+    width: 100%;
+    background-color:rgb(6, 154, 147);
+    height:80px;
+    display: flex;
+    justify-content: center;
+}
+.img1{
+  
+    position: absolute;
+    bottom: 30px;
+    height: 180px;
+    width: 180px;
+border-radius: 100%;
+}
+li{
+    text-transform: uppercase;
+}
+h1{
+    text-transform: uppercase;
+}
